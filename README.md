@@ -1,10 +1,10 @@
 # webinar15052021
-![](poster.jpg) <br />
+![](images/poster.jpg) <br />
 ## Event Description <br />
 ###  CCET ACM Student Chapter brings you the opportunity of learning the core development of a Compiler Design, through its Two day Webinar on:  Making of a Programming Language!!! <br />
 In this two-day session, the audience will be guided about how a new high-level programming language is designed, how a compiler translates that code to an assembly language, and then how an assembler translates it to executable machine code.<br />
-![](toc.png) <br />
-![](venue.png) <br />
+![](images/toc.png) <br />
+![](images/venue.png) <br />
 
 ## Prerequisites:<br />
 1)  Have a little bit of knowledge of registers and assembly language is an advantage. <br />
