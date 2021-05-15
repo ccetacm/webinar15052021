@@ -1,0 +1,53 @@
+
+module-2  (X86 or 32-bit processor)
+
+
+
+Compiler:
+{
+High level code (in human understandable form)[Processor-independent]
+|
+|     our-Python-programm                               'a'  to     '1' 
+
+|                                           source      destination
+
+Assembly language   [Processor - dependent]
+|
+|     FASM
+|
+1-0 language (binary-language)
+
+}
+
+
+Intel processor:
+    ->  Register--->   EAX,  EBX 
+    ->
+
+
+Processor:
+
+1) we have to store to store (register)
+2) Operational Unit->  (perform operations on values stored in register)
+3) Control unit-> it tells operational unit what to perform and when to perform.
+
+
+
+Processor or CPU = (processor is a device which has {storage_unit,operational unit,*control unit*}):
+
+
+
+->Storage_unit in processor is known as register.
+->operational unit is known as ALU (Airthmatic,logical operations)
+->Control unit= Which tells ALU what to perform and when to perform.
+
+Who tells Control unit ?
+human [ pogrammer ]
+
+how?
+by instructions/by programms
+
+Assembly
+->intel VS AMD VS .........
+
+
